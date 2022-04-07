@@ -1,0 +1,5 @@
+Caso de Teste 01: Pesquisar produto existente 
+    Acessar a página home do site Automation Practice
+    Digitar o nome do produto "blouse" no campo de Pesquisar
+    Clicar no botão Pesquisar
+    Conferir se o produto "Blouse" foi listado no blouse
